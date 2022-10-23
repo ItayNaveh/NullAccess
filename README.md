@@ -1,7 +1,7 @@
 People always say to be careful not to derefrence a pointer that points to address 0 because then your program will crash, well they didn't do their research properly
 
 # What
-this code writes to address 0 and the reads it and just writes a purple character on screen. (check kernel.c)
+this code writes to address 0 and then reads it and just writes a purple character on screen. (check kernel.c)
 
 # How to run
 first install qemu (qemu.org) or your favourite virtualization tool
